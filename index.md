@@ -10,7 +10,7 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement Maître de conférences à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a> et membre du laboratoire Jacques-Louis Lions (<a href="https://www.ljll.math.upmc.fr/">LJLL</a>). Je suis également membre de l'équipe-projet <a href="https://team.inria.fr/commedia/">COMMEDIA</a> de l'Inria Paris. Je travaille principalement sur des problèmes d'interaction fluide-structure avec des applications en sciences du vivant et sur le développement de méthodes numériques pour la résolution de problèmes aux interfaces.
+          Je suis actuellement en postdoc à l'INRIA de Paris dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire.
           <br>
           
         </div>
@@ -18,50 +18,39 @@ layout: default
     </div>
 </div>
 **Contact :**<br>
-Tour 16-26, 3e étage<br>
-Bureau 16-26-301<br>
-4 place Jussieu, 75005 Paris<br>
-fabien.vergnet(chez)sorbonne-universite.fr
+Bureau A322<br />
+ Centre de Recherche Inria de Paris <br />
+            2 rue Simone Iff <br />
+            75012 Paris <br />
+            <br />
 
-## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-02194265v1)
-J'ai soutenu une thèse en mathématiques appliquées au Laboratoire de Mathématiques d'Orsay ([LMO](https://www.math.u-psud.fr)) qui porte sur la modélisation, l'analyse mathématique et la simulation numérique de structures actives dans un fluide de Stokes. Ce travail a été réalisé sous la direction d'[Astrid Decoene](http://www.math.u-psud.fr/~decoene/), de [Sébastien Martin](http://smartin.perso.math.cnrs.fr/) et de [Bertrand Maury](http://www.math.u-psud.fr/~maury/).
+            frederique.noel@inria.fr
 
+## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-03156080/)
+J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="https://math.unice.fr">J.A. Dieudonné</a>  à l'université Côte d'Azur en février 2021. Mon travail portait principalement sur la modélisation et l'optimisation de la ventilation pulmonaire dans un poumon sain et enflammé chez les humains mais aussi chez tous les mammifères. Cette thèse a été réalisé sous la direction de <a href="http://benjamin.mauroy.free.fr/wordpress/">Benjamin Mauroy</a>.
 
 # Recherche
 
 ## Thèmes de recherche
 
-- Modélisation en sciences du vivant et physique.
-- Analyse de problèmes d'interaction fluide-structure.
-- Développement de méthodes numériques pour la résolution d'EDP.
-- Calcul scientifique.
+- Modélisation mathématique dans le domaine du vivant 
+- Analyse des EDP 
+- Calcul scientifique 
 
 ## Publications scientifiques
 
-**Pré-publications**
 
-* Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
-**A continuum active structure model for the interaction of cilia with a viscous fluid.**  
-*Pré-publication, 29 pages*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02493513v1)
+0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
+**The origin of the allometric scaling of lung ventilation in mammals.**  
+*PCI Mathematical and Computational Biology* (2021). [[PDF]](https://arxiv.org/abs/2005.12362) 
 
-* Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
-**A smooth extension method for transmission problems.**  
-*Pré-publication, 34 pages*. [[Hal]](https://hal.archives-ouvertes.fr/hal-02146271v2)
-
-
-**Dans des journaux scientifiques avec comité de lecture**
-
-0. Céline Grandmont, Fabien Vergnet.  
-**Existence and uniqueness for a quasi-static fluid-structure interaction problem with an active structure**  
-*Journal of Mathematical Fluid Mechanics* 23:45 (2021). [[Article]](https://doi.org/10.1007/s00021-020-00552-0) [[Hal]](https://hal.archives-ouvertes.fr/hal-02493384v1) 
-
-0. Sergio Chibbaro, Astrid Decoene, Sébastien Martin, Fabien Vergnet.  
-**Irreversibility and chaos in active particles suspensions.**  
-*Physical Review Fluids* 6:1 (2021). [[Article]](https://doi.org/10.1103/PhysRevFluids.6.013104) [[arXiv]](https://arxiv.org/abs/2005.10613)
+0. L. Boudin, C. Grandmont, B. Grec, S. Martin, A. Mecherbet et F. Noël.  
+**Fluid-kinetic modelling for respiratory aerosols with variable size and temperature.**  
+*ESAIM: Proceedings and Surveys* (2020). [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
  
-0. Pierre Degond, Sara Merino-Aceituno, Fabien Vergnet, Hui Yu.  
-**Coupled Self-Organized Hydrodynamics and Stokes models for suspensions of active particles.**  
-*Journal of Mathematical Fluid Mechanics* 21:6 (2019). [[Article]](https://rdcu.be/bjyha) [[arXiv]](https://arxiv.org/pdf/1706.05666.pdf)
+0. F. Noël et B. Mauroy.
+**Interplay between optimal ventilation and gas transport in a model of the human lung.**  
+*Frontiers in Physiology* (2019). [[PDF]](https://www.frontiersin.org/articles/10.3389/fphys.2019.00488/full)
 {: reversed="reversed"}
 
 ## Exposés scientifiques
