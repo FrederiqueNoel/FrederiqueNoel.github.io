@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fabien Vergnet
-author: Fabien Vergnet
-emailLMO: fabien.vergnet@math.u-psud.fr
-emailMAP5: fabien.vergnet@parisdescartes.fr
+title: Frédérique Noël
+author: Frédérique Noël
+emailinria: frederique.noel@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Fabien Vergnet | Page personnelle
+  Frédérique Noël | Page personnelle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Fvergnet
-linkedin_username: fabien-vergnet-66aa3784
+github_username:  FrederiqueNoel
 # Build settings
 markdown: kramdown
 theme: minima
