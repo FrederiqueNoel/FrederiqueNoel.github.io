@@ -21,9 +21,7 @@ Bureau A322<br />
  Centre de Recherche Inria de Paris <br />
             2 rue Simone Iff <br />
             75012 Paris <br />
-            <br />
-
-            frederique.noel@inria.fr
+            frederique.noel [at] inria.fr
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-03156080/)
 J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="https://math.unice.fr">J.A. Dieudonné</a>  à l'université Côte d'Azur en février 2021. Mon travail portait principalement sur la modélisation et l'optimisation de la ventilation pulmonaire dans un poumon sain et enflammé chez les humains mais aussi chez tous les mammifères. Cette thèse a été réalisé sous la direction de <a href="http://benjamin.mauroy.free.fr/wordpress/">Benjamin Mauroy</a>.
