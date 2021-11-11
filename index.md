@@ -10,7 +10,7 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement en postdoc à l'INRIA de Paris dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire.
+          Je suis actuellement en postdoc dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> commune au Laboratoire Jacques Louis Lions (LJLL) de Sorbonne Université et de l'INRIA de Paris, depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire en collaboration avec le service de réanimation de l'APHP (Hôpital Lariboisière) et l'équipe <a href="https://www.inria.fr/fr/m3disim">M3DISIM</a> de l'INRIA de Saclay. 
             
             <br />
           <br>
