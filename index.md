@@ -47,7 +47,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 **Fluid-kinetic modelling for respiratory aerosols with variable size and temperature.**  
 *ESAIM: Proceedings and Surveys* (2020). [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
  
-0. F. Noël et B. Mauroy.
+0. F. Noël et B. Mauroy. <br>
 **Interplay between optimal ventilation and gas transport in a model of the human lung.**  
 *Frontiers in Physiology* (2019). [[PDF]](https://www.frontiersin.org/articles/10.3389/fphys.2019.00488/full)
 {: reversed="reversed"}
