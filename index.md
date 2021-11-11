@@ -41,7 +41,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
 **The origin of the allometric scaling of lung ventilation in mammals.**  
-*PCI Mathematical and Computational Biology* (2021). [[PDF]](https://arxiv.org/abs/2005.12362) 
+*PCI Mathematical and Computational Biology* (2021). [[PDF]](https://mcb.peercommunityin.org/stream_pdf/t_recommendations.track_change.bc74a3c0bc4e54ab.6d61696e2e706466.pdf) 
 
 0. L. Boudin, C. Grandmont, B. Grec, S. Martin, A. Mecherbet et F. Noël.  
 **Fluid-kinetic modelling for respiratory aerosols with variable size and temperature.**  
