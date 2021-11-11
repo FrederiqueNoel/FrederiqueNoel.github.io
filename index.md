@@ -39,7 +39,6 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Publications scientifiques
 
-
 0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
 **The origin of the allometric scaling of lung ventilation in mammals.**  
 *PCI Mathematical and Computational Biology* (2021). [[PDF]](https://arxiv.org/abs/2005.12362) 
