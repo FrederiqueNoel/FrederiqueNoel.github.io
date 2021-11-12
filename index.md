@@ -45,7 +45,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 0. L. Boudin, C. Grandmont, B. Grec, S. Martin, A. Mecherbet et F. Noël.  
 **Fluid-kinetic modelling for respiratory aerosols with variable size and temperature.**  
-*ESAIM: Proceedings and Surveys* (2020). [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
+*ESAIM: Proceedings and Surveys* (2020). Vol. 67, p. 100-119. [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
  
 0. F. Noël et B. Mauroy. <br>
 **Interplay between optimal ventilation and gas transport in a model of the human lung.**  
