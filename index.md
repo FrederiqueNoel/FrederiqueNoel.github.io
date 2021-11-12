@@ -41,15 +41,15 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
 **The origin of the allometric scaling of lung ventilation in mammals.**  
-*PCI Mathematical and Computational Biology* (2021). [[PDF]](https://mcb.peercommunityin.org/stream_pdf/t_recommendations.track_change.bc74a3c0bc4e54ab.6d61696e2e706466.pdf) 
+*PCI Mathematical and Computational Biology*, 37 pages (2021). [[PDF]](https://mcb.peercommunityin.org/stream_pdf/t_recommendations.track_change.bc74a3c0bc4e54ab.6d61696e2e706466.pdf) 
 
 0. L. Boudin, C. Grandmont, B. Grec, S. Martin, A. Mecherbet et F. Noël.  
 **Fluid-kinetic modelling for respiratory aerosols with variable size and temperature.**  
-*ESAIM: Proceedings and Surveys* (2020). Vol. 67, p. 100-119. [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
+*ESAIM: Proceedings and Surveys*, 67:100 (2020). [[PDF]](https://www.esaim-proc.org/articles/proc/abs/2020/01/proc206707/proc206707.html) 
  
 0. F. Noël et B. Mauroy. <br>
 **Interplay between optimal ventilation and gas transport in a model of the human lung.**  
-*Frontiers in Physiology* (2019). [[PDF]](https://www.frontiersin.org/articles/10.3389/fphys.2019.00488/full)
+*Frontiers in Physiology*, 10:488 (2019).[[PDF]](https://www.frontiersin.org/articles/10.3389/fphys.2019.00488/full)
 {: reversed="reversed"}
 
 ## Exposés scientifiques
