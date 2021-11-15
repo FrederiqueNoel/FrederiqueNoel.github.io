@@ -18,7 +18,6 @@ layout: default
             <br />
           <br>
             
-          
         </div>
     </div>
 </div>
