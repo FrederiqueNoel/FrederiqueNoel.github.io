@@ -30,7 +30,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Thèmes de recherche
 
-- Modélisation mathématique dans le domaine du vivant 
+- Modélisation mathématique pour le vivant 
 - Analyse des EDP 
 - Calcul scientifique 
 
