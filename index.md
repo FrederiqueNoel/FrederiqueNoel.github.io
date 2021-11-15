@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<meta name="google-site-verification" content="Ft0SKGIvf99J0Ayfsj_wE2ZIOtb76ml6XNMvTBrf8u8" />
 
 # À propos
 
