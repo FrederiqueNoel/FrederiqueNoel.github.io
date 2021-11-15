@@ -10,15 +10,12 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement en postdoc dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> commune au Laboratoire Jacques Louis Lions <a href="https://www.ljll.math.upmc.fr">(LJLL)</a> de Sorbonne Université et de l'INRIA de Paris, depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire en collaboration avec le service de réanimation de l'APHP (Hôpital Lariboisière) et l'équipe <a href="https://www.inria.fr/fr/m3disim">M3DISIM</a> de l'INRIA de Saclay. 
+          Je suis actuellement en postdoc dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> commune au Laboratoire Jacques Louis Lions <a href="https://www.ljll.math.upmc.fr">(LJLL)</a> de Sorbonne Université et de l'INRIA de Paris, depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire en collaboration avec le service de réanimation de l'APHP (Hôpital Lariboisière) et l'équipe <a href="https://www.inria.fr/fr/m3disim">M3DISIM</a> de l'INRIA de Saclay. <br>
             
             </div>
     <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/IMG_2133.jpg"> </div>
 </div>
-            <br />
-          <br>
-            
-        </div>
+         
     </div>
 </div>
 **Contact :**<br>
