@@ -15,8 +15,6 @@ layout: default
             </div>
     <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/IMG_2133.jpg"> </div>
 </div>
-         
-    </div>
 </div>
 **Contact :**<br>
 Bureau A322<br />
