@@ -51,6 +51,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Exposés scientifiques
 
+- Séminaire Systèmes complexes en sciences sociales, Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris, 18 février 2022.
 - Séminaire du groupe de travail Modélisation, Analyse et Simulation du MAP5, Université de Paris, Paris, 22 octobre 2021.
 - ReaDiNet 2020: An online conference on mathematical biology, en visioconférence, 19 au 23 octobre 2020.
 - VentiCorse: Why modeling the pulmonary ventilation ? Music, exercise and medicine, Cargèse, 18 au 22 novembre 2019. Session de poster.
