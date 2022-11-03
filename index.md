@@ -51,11 +51,17 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Exposés scientifiques
 
+- Journées Maths Bio Santé, Besançon, 5 au 7 octobre 2022.
+- ERS International Congress, Barcelone, 4 au 6 septembre 2022. Session de poster.
 - Séminaire Systèmes complexes en sciences sociales, Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris, 18 février 2022.
 - Séminaire du groupe de travail Modélisation, Analyse et Simulation du MAP5, Université de Paris, Paris, 22 octobre 2021.
 - ReaDiNet 2020: An online conference on mathematical biology, en visioconférence, 19 au 23 octobre 2020.
 - VentiCorse: Why modeling the pulmonary ventilation ? Music, exercise and medicine, Cargèse, 18 au 22 novembre 2019. Session de poster.
 - ReaDiNet 2019: Mathematical Analysis for Biology and Ecology, Nancy, 23 au 25 septembre 2019. Session de poster.
-- Festival Sport Santé, Marseille, 21 au 22 juin 2019. Exposition d'un poster. 
 - ReaDiNet 2018: Recent Progress in Mathematical Theories for Biological Phenomena, Jeju, South Korea, 31 octobre au 3 novembre 2018. Session de Poster.
 - CEMRACS 2018, CIRM Marseille, Août 2018. Exposé avec Amina Mecherbet.
+
+## Vulgarisation scientifique 
+
+- Rencontres Jeunes Mathématiciennes et Informaticiennes, Paris, 25 octobre 2022. Présentation de mon travail à des lycéennes.
+- Festival Sport Santé, Marseille, 21 au 22 juin 2019. Exposition d'un poster. 
