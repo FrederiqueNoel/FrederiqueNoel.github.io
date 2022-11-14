@@ -10,18 +10,18 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement en postdoc dans l'équipe <a href="https://team.inria.fr/commedia/">COMMEDIA</a> commune au Laboratoire Jacques Louis Lions <a href="https://www.ljll.math.upmc.fr">(LJLL)</a> de Sorbonne Université et de l'INRIA de Paris, depuis mars 2021 sous la direction de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a>. Je travaille principalement sur la modélisation mathématiques du système respiratoire en collaboration avec le service de réanimation de l'APHP (Hôpital Lariboisière) et l'équipe <a href="https://www.inria.fr/fr/m3disim">M3DISIM</a> de l'INRIA de Saclay. <br>
+          Je suis actuellement chargée de recherche CNRS au Laboratoire Jacques Louis Lions <a href="https://www.ljll.math.upmc.fr">(LJLL)</a> de Sorbonne Université, depuis novembre 2022. Je travaille principalement sur la modélisation mathématiques du système respiratoire. <br>
             
             </div>
     <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/IMG_2133.jpg"> </div>
 </div>
 </div>
 **Contact :**<br>
-Bureau A322<br />
- Centre de Recherche Inria de Paris <br />
-            2 rue Simone Iff <br />
-            75012 Paris <br />
-            frederique.noel [at] inria.fr
+Bureau 16-26 301<br />
+4 place Jussieu <br />
+           75005 Paris />
+            
+            frederique.noel [at] sorbonne-universite.fr  
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-03156080/)
 J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="https://math.unice.fr">J.A. Dieudonné</a>  à l'université Côte d'Azur en février 2021. Mon travail portait principalement sur la modélisation et l'optimisation de la ventilation pulmonaire dans un poumon sain et enflammé chez les humains mais aussi chez tous les mammifères. Cette thèse a été réalisée sous la direction de <a href="http://benjamin.mauroy.free.fr/wordpress/">Benjamin Mauroy</a>. Lors de cette thèse, j'ai assisté à l'école d'été du <a href="http://smai.emath.fr/cemracs/cemracs18/">CEMRACS 2018</a>, pendant laquelle j'ai travaillé sur le dépôt de particules provenant d'une thérapie par aérosol dans le poumon. Ce travail a été effectué en collaboration avec <a href="https://webusers.imj-prg.fr/~amina.mecherbet/index.html#top">Amina Mecherbet</a> sous la direction de <a href="https://www.ljll.math.upmc.fr/boudin/">Laurent Boudin</a> du LJLL de Sorbonne Université, de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a> du LJLL de Sorbonne Université et de l'INRIA de Paris, de <a href="https://helios2.mi.parisdescartes.fr/~bgrec/">Bérénice Grec</a> du laboratoire MAP5 de l'Université de Paris et de <a href="http://smartin.perso.math.cnrs.fr/index.html">Sébastien Martin</a> du laboratoire MAP5 de l'Université de Paris. 
