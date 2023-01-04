@@ -19,8 +19,9 @@ layout: default
 **Contact :**<br>
 Bureau 16-26 301<br />
 4 place Jussieu <br />
-           75005 Paris />
-            frederique.noel [at] sorbonne-universite.fr  
+75005 Paris <br />
+            
+frederique.noel [at] sorbonne-universite.fr  
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-03156080/)
 J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="https://math.unice.fr">J.A. Dieudonné</a>  à l'université Côte d'Azur en février 2021. Mon travail portait principalement sur la modélisation et l'optimisation de la ventilation pulmonaire dans un poumon sain et enflammé chez les humains mais aussi chez tous les mammifères. Cette thèse a été réalisée sous la direction de <a href="http://benjamin.mauroy.free.fr/wordpress/">Benjamin Mauroy</a>. Lors de cette thèse, j'ai assisté à l'école d'été du <a href="http://smai.emath.fr/cemracs/cemracs18/">CEMRACS 2018</a>, pendant laquelle j'ai travaillé sur le dépôt de particules provenant d'une thérapie par aérosol dans le poumon. Ce travail a été effectué en collaboration avec <a href="https://webusers.imj-prg.fr/~amina.mecherbet/index.html#top">Amina Mecherbet</a> sous la direction de <a href="https://www.ljll.math.upmc.fr/boudin/">Laurent Boudin</a> du LJLL de Sorbonne Université, de <a href="https://team.inria.fr/commedia/grandmont/">Céline Grandmont</a> du LJLL de Sorbonne Université et de l'INRIA de Paris, de <a href="https://helios2.mi.parisdescartes.fr/~bgrec/">Bérénice Grec</a> du laboratoire MAP5 de l'Université de Paris et de <a href="http://smartin.perso.math.cnrs.fr/index.html">Sébastien Martin</a> du laboratoire MAP5 de l'Université de Paris. 
