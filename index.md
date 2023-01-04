@@ -20,7 +20,6 @@ layout: default
 Bureau 16-26 301<br />
 4 place Jussieu <br />
            75005 Paris />
-            
             frederique.noel [at] sorbonne-universite.fr  
 
 ## Thèse de doctorat [[Tel]](https://tel.archives-ouvertes.fr/tel-03156080/)
