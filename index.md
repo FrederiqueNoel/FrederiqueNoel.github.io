@@ -42,7 +42,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 0. F. Noël et B. Mauroy.  
 **Propagation of an idealized infection in an airway tree, consequences of the inflammation on the oxygen transfer to blood.**  
-*Journal of Theoretical Biology*,561(4):111405 (2023). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0022519323000012?via%3Dihub)) 
+*Journal of Theoretical Biology*, 561(4):111405 (2023). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0022519323000012?via%3Dihub)) 
 
 0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
 **The origin of the allometric scaling of lung ventilation in mammals.**  
@@ -59,7 +59,11 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Exposés scientifiques
 
+- Second Summer School on Economic principles in cell biology, Paris, 10 au 13 juillet 2023. Exposé avec Cyril Karamaoun.
+- Séminaire du LJLL, Sorbonne université, Paris, 17 mars 2023.
+- Séminaire de l'équipe de modélisation et calcul scientifique du LAGA, Université Sorbonne Paris Nord, Paris, 6 mars 2023.
 - Journées Maths Bio Santé, Besançon, 5 au 7 octobre 2022.
+- Rencontres Inria-LJLL en calcul scientifique, Sorbonne université, Paris, 3 octobre 2022.
 - ERS International Congress, Barcelone, 4 au 6 septembre 2022. Session de poster.
 - Séminaire Systèmes complexes en sciences sociales, Ecole des Hautes Etudes en Sciences Sociales (EHESS), Paris, 18 février 2022.
 - Séminaire du groupe de travail Modélisation, Analyse et Simulation du MAP5, Université de Paris, Paris, 22 octobre 2021.
