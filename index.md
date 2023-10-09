@@ -17,7 +17,7 @@ layout: default
 </div>
 </div>
 **Contact :**<br>
-Bureau 16-26 301<br />
+Bureau 16-26 324<br />
 4 place Jussieu <br />
 75005 Paris <br />
             
