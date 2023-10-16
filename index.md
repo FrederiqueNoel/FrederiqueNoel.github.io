@@ -38,11 +38,11 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 0. C. Goupil, E. Herbert, C. Karamaoun, B. Mauroy et F. Noël.  
 **Economy of organ shapes and function.**  
-*Chapter in book: Economic Principles in Cell Biology* (2023). [[PDF]](https://principlescellphysiology.org/book-economic-principles/index.html)) 
+*Chapter in book: Economic Principles in Cell Biology* (2023). [[PDF]](https://principlescellphysiology.org/book-economic-principles/index.html) 
 
 0. F. Noël et B. Mauroy.  
 **Propagation of an idealized infection in an airway tree, consequences of the inflammation on the oxygen transfer to blood.**  
-*Journal of Theoretical Biology*, 561(4):111405 (2023). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0022519323000012?via%3Dihub)) 
+*Journal of Theoretical Biology*, 561(4):111405 (2023). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0022519323000012?via%3Dihub) 
 
 0. F. Noël, C. Karamaoun, J. Dempsey et B. Mauroy.  
 **The origin of the allometric scaling of lung ventilation in mammals.**  
