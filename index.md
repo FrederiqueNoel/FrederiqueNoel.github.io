@@ -10,7 +10,7 @@ layout: default
 <div style="width: 100%; display: table;">
     <div style="display: table-row;">
         <div style="display: table-cell; vertical-align: middle;"> 
-          Je suis actuellement chargée de recherche CNRS au Laboratoire Jacques Louis Lions <a href="[https://www.ljll.fr">(LJLL)</a> de Sorbonne Université, depuis novembre 2022. Je suis également membre de l'équipe projet <a href="https://team.inria.fr/commedia/">COMMEDIA</a> de l'Inria Paris. Je travaille principalement sur la modélisation mathématiques du système respiratoire. <br>
+          Je suis actuellement chargée de recherche CNRS au Laboratoire Jacques Louis Lions <a href="https://www.ljll.fr">(LJLL)</a> de Sorbonne Université, depuis novembre 2022. Je suis également membre de l'équipe projet <a href="https://team.inria.fr/commedia/">COMMEDIA</a> de l'Inria Paris. Je travaille principalement sur la modélisation mathématiques du système respiratoire. <br>
             
             </div>
     <div style="width: 200px; display: table-cell; padding-left: 30px; min-width: 150px;"> <img src="assets/IMG_2133.jpg"> </div>
