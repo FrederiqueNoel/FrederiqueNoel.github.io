@@ -36,6 +36,10 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Publications scientifiques
 
+0. C. Grandmont, C. Karamaoun, S. Martin et F. Noël.
+**Sensitivity and optimality analysis of breathing scenarios for 1D or 0D models of gas diffusion in the lung.**
+*Journal of Theoretical Biology*, 615:112235 (2025). [[PDF]](https://www.sciencedirect.com/science/article/pii/S0022519325002012) 
+
 0. C. Goupil, E. Herbert, C. Karamaoun, B. Mauroy et F. Noël.  
 **Economy of organ shapes and function.**  
 *Chapter in book: Economic Principles in Cell Biology* (2023). [[PDF]](https://principlescellphysiology.org/book-economic-principles/index.html) 
