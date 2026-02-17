@@ -91,7 +91,7 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Encadrement de doctorants
 **Romain Lopez-Surjus**
-    - Modélisation mathématique et numérique du système cardio-respiratoire
-    - Co-supervision: Céline Grandmont, Fabien Vergnet
-    - Doctorant de Sorbonne Université: 2024-...
+- Modélisation mathématique et numérique du système cardio-respiratoire
+- Co-supervision: Céline Grandmont, Fabien Vergnet
+- Doctorant de Sorbonne Université: 2024-...
 
