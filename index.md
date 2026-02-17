@@ -87,4 +87,11 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 ## Vulgarisation scientifique 
 
 - Rencontres Jeunes Mathématiciennes et Informaticiennes, Paris, 2022 et 2023. Présentation de mon travail à des lycéennes.
-- Festival Sport Santé, Marseille, 21 au 22 juin 2019. Exposition d'un poster. 
+- Festival Sport Santé, Marseille, 21 au 22 juin 2019. Exposition d'un poster.
+
+## Encadrement de doctorants
+### Romain Lopez-Surjus
+    - Modélisation mathématique et numérique du système cardio-respiratoire
+    - Co-supervision: Céline Grandmont, Fabien Vergnet
+    - PhD de Sorbonne Université: 2024-...
+
