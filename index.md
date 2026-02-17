@@ -59,6 +59,13 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Exposés scientifiques
 
+- Séminaire de modélisation mathématiques en sciences de la vie et santé, Paris, 27 novembre 2025.
+- Première rencontre autour de la modélisation du poumon, Mulhouse, 16 et 17 octobre 2025.
+- International Conference on Computational Bioengineering (ICCB), Rome, Italie, 8 au 10 septembre 2025.
+- Summer School on Economic principles in cell biology, 21 au 25 juillet 2025. Exposé en visio.
+- European Conference on Mathematical and Theoretical Biology (ECMTB), Toledo, Espagne, 22 au 26 juillet 2024.
+- Summer School on Economic principles in cell biology, Paris, 8 au 11 juillet 2024.
+- Séminaire ANEDP, Lille, 26 octobre 2023
 - Second Summer School on Economic principles in cell biology, Paris, 10 au 13 juillet 2023. Exposé avec Cyril Karamaoun.
 - Séminaire du LJLL, Sorbonne université, Paris, 17 mars 2023.
 - Séminaire de l'équipe de modélisation et calcul scientifique du LAGA, Université Sorbonne Paris Nord, Paris, 6 mars 2023.
@@ -75,5 +82,5 @@ J'ai soutenu une thèse en mathématiques appliquées au laboratoire <a href="ht
 
 ## Vulgarisation scientifique 
 
-- Rencontres Jeunes Mathématiciennes et Informaticiennes, Paris, 25 octobre 2022. Présentation de mon travail à des lycéennes.
+- Rencontres Jeunes Mathématiciennes et Informaticiennes, Paris, 2022 et 2023. Présentation de mon travail à des lycéennes.
 - Festival Sport Santé, Marseille, 21 au 22 juin 2019. Exposition d'un poster. 
